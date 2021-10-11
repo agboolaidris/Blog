@@ -3,7 +3,7 @@
 Steps to run this project:
 
 1. Run `npm i` command
-2. Setup database settings inside `.env` file example is in .env.example
+2. Setup database settings inside `.env.local` file, example is in .env.local.example
 3. Run `npm start` command
 
 stack:
